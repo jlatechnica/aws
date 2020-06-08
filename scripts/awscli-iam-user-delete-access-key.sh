@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#list users | delete from input
+# list users | delete from input
 
 aws iam list-users --query Users[*].UserName --output table
 read -p "enter name of user to delete: " user
