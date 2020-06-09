@@ -4,9 +4,9 @@
 
 rgn=us-east-2
 
-#use this instead of echo
-read -p "enter name for new users: " name
+read -p "enter name for new user: " name
 
+# same as above(verbose)
 echo 'enter new profile name: '
 read profile
 
