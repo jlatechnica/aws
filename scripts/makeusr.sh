@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=./ref/names.txt
+FILE=./ref/team-test-roster
 
 while read f; do
 aws iam create-user --user-name $f;

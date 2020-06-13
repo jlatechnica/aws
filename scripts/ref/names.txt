@@ -1,5 +1,0 @@
-commander-quark
-captain-picard
-dev-frodo
-lead-gandolf
-test-dummy

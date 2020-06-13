@@ -2,7 +2,7 @@
 
 # deletes users on list
 
-FILE=./ref/names.txt
+FILE=./ref/team-test-roster
 
 while read f; do
 aws iam delete-user --user-name $f;
