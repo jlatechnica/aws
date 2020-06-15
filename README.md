@@ -1,11 +1,10 @@
 # AWS admin scripting
 
-
-
+Directory of bash scripts to auto-deploy AWS services 
 
 [] FIX: scripts 'hardcoded' home file-references (reusable dir references)
 
-[] tooling scripts filed by service
+[] tooling scripts categorized by service
 
 [] add error chk
 
@@ -13,3 +12,4 @@
 
 [] add iam management
 
+[x] add file-referenecing
