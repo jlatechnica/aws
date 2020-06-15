@@ -1,6 +1,6 @@
 # AWS admin scripting
 
-Directory of bash scripts to auto-deploy AWS services 
+Directory of bash examples scripts to auto-deploy AWS services
 
 [] FIX: scripts 'hardcoded' home file-references (reusable dir references)
 
