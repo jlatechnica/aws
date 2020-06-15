@@ -2,6 +2,11 @@
 
 AWS scripts | builds | templates
 
-[] pushed basic tooling scripts 
+[] tooling scripts filed by service
 
-[] testing ssh-keys
+[] add error chk
+
+[] add inventory logging
+
+[] add iam management
+
