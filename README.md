@@ -12,4 +12,4 @@ Directory of bash scripts to auto-deploy AWS services
 
 [] add iam management
 
-[x] add file-referenecing
+[x] add file-referencing
