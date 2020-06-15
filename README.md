@@ -10,7 +10,7 @@ Directory of bash scripts to auto-deploy AWS services
 
 [] add inventory logging
 
-[] add iam management
+[] add iam management accesskeys | profiles
 
 [x] add file-referencing
 
