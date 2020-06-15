@@ -13,3 +13,5 @@ Directory of bash scripts to auto-deploy AWS services
 [] add iam management
 
 [x] add file-referencing
+
+[x] pull test
