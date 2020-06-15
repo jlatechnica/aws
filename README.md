@@ -1,6 +1,9 @@
-# aws
+# AWS admin scripting
 
-AWS scripts | builds | templates
+
+
+
+[] FIX: scripts 'hardcoded' home file-references (reusable dir references)
 
 [] tooling scripts filed by service
 
