@@ -11,7 +11,3 @@ Example directory of bash scripts to auto-deploy AWS services
 [] add inventory logging
 
 [] add iam management accesskeys | profiles
-
-[x] add file-referencing
-
-[x] pull test
