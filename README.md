@@ -1,13 +1,15 @@
 # AWS admin scripting
 
-Example directory of bash scripts to auto-deploy AWS services
+Example of bash scripts and AWS CLI to auto-deploy AWS services
 
-[] FIX: scripts 'hardcoded' home file-references (reusable dir references)
+[ ] bash scripts that automate repetitive tasks
 
-[] tooling scripts categorized by service
+[ ] JMESpath to query resources | pipe to files >> progammatic execution on queried rsrc
 
-[] add error chk
+[ ] supply files >> bash > AWS CLI commands
 
-[] add inventory logging
+[ ] sample content management CDN (transcoding files from S3 for distribution to CF)
 
-[] add iam management accesskeys | profiles
+
+extra:
+[ ] sysadmin tools: monitoring | logging | snapshots | access control
